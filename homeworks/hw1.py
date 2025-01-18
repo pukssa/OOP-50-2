@@ -14,7 +14,7 @@ class Hero:
         return f"Имя: {self.name}, lvl: {self.lvl}, HP: {self.HP}"
 
 
-hero1 = Hero("Тимоша", 5, 100)
+hero1 = Hero("Джимбо", 5, 100)
 hero2 = Hero("Иванушка", 12, 150)
 hero3 = Hero("Ерема", 8, 120)
 
